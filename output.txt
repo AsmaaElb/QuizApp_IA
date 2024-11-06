@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can parents encourage creativity in their children without stifling it?",
+    "answer": "By providing a supportive environment and allowing freedom of expression."
+  },
+  {
+    "question": "In what ways can kids develop empathy and compassion towards others?",
+    "answer": "Through exposure to diverse experiences and discussions on emotions."
+  },
+  {
+    "question": "What role do schools play in fostering independence and self-reliance in children?",
+    "answer": "By promoting problem-solving skills and encouraging autonomy in decision-making."
+  }
+]
